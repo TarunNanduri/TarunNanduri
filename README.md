@@ -4,6 +4,7 @@
 <br>
 
 ### Professional Experience
+* Go
 * REST API's
 * Docker
 * Redis
