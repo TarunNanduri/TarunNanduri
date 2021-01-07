@@ -1,7 +1,6 @@
-# Hello from Tarun 👋
+# Tarun Nanduri
 
-<b>Software Engineer at NCR Corporation</b>.
-<br>
+<b> Software Engineer at NCR Corporation </b>
 
 ### Professional Experience
 * Go
