@@ -18,7 +18,6 @@
 
 * Deep Learning
 * Flutter
-* API Development
 * NeuroScience
 * Blogging
 
