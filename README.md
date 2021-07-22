@@ -4,10 +4,11 @@
 
 ### Professional Experience
 * Go
-* REST API's
+* Microservices
 * Docker
 * Redis
 * MQTT
+* Application Security
 
 ### Blog's at
 
