@@ -9,6 +9,7 @@
 * Redis
 * MQTT
 * Application Security
+* Transport Layer Security
 
 ### Blog's at
 
